@@ -1,0 +1,54 @@
+header{
+    background-color:#282829;
+}
+
+.container {
+    width: 1300px;
+    margin: 0 auto;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a {
+
+color: white;
+text-decoration: none;}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+    display: flex;
+    gap: 30px;
+}
+
+h1 {
+    font-size: 62px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.top {
+    display: flex;
+    justify-content: space-around;
+}
+
+.top div {
+    width: 27%;
+}
+
+.top img {
+    width: 100%;
+}
+h4{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 26px;
+}
+p{
+   text-align: center;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
